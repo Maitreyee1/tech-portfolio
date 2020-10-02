@@ -2,6 +2,8 @@
 id: about
 title: About
 ---
+Hi, I am Maitreyee Mhasakar. Happy to see you are here.
+
 
 You can start your "About" page with an elevator pitch, one or two
 sentences about you! The rest of this page page can
@@ -24,9 +26,3 @@ Grace Hopper Celebration Attendee
 ## Recognition
 
 - 2020 Awesome Woman in Technology Award
-
-## Social Media
-
-- Twitter
-- LinkedIn
-- GitHub
